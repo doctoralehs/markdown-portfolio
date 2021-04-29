@@ -1,1 +1,1 @@
-[twitch] (https://www.twitch.tv/dorkknight137)
+[twitch](https://www.twitch.tv/dorkknight137)
