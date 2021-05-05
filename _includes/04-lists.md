@@ -1,4 +1,4 @@
-Gaming
-Music
-Art
-History
+* Gaming
+* Music
+- Art
+- History
